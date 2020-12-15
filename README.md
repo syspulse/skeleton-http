@@ -1,4 +1,4 @@
-# Skeleton
+# skeleton-http
 
 Simple HTTP REST Service Skeleton.
 
@@ -85,7 +85,7 @@ __Swagger UI__: [http://host:port/api/v1/swagger](http://host:port/api/v1/swagge
 
 Quick: [http://localhost:8080/api/v1/swagger](http://localhost:8080/api/v1/swagger)
 
-<img src="doc/scr-swagger.png" width="550">
+<img src="doc/scr-swagger.png" width="850">
 
 ----
 
