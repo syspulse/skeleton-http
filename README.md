@@ -85,13 +85,17 @@ __Swagger UI__: [http://host:port/api/v1/swagger](http://host:port/api/v1/swagge
 
 Quick: [http://localhost:8080/api/v1/swagger](http://localhost:8080/api/v1/swagger)
 
+<img src="doc/scr-swagger.png" width="550">
+
+----
+
 ## Libraries
 
 1. HTTP: Akka-HTTP [https://doc.akka.io/docs/akka-http/current/index.html](https://doc.akka.io/docs/akka-http/current/index.html)
 2. Metrics: [https://github.com/erikvanoosten/metrics-scala](https://github.com/erikvanoosten/metrics-scala)
 3. OpenAPI (Swagger): [https://github.com/swagger-akka-http/swagger-akka-http](https://github.com/swagger-akka-http/swagger-akka-http)
 4. UUID: [https://github.com/melezov/scala-uuid](https://github.com/melezov/scala-uuid)
-5. Args: [https://github.com/backuity/clist](https://github.com/backuity/clist)
+5. Args: [https://github.com/scopt/scopt](https://github.com/scopt/scopt)
 6. Configuration: [https://github.com/lightbend/config](https://github.com/lightbend/config)
 7. Logging: [http://logback.qos.ch](http://logback.qos.ch)
 
